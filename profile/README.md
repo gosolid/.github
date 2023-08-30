@@ -1,4 +1,4 @@
-![](./logo.svg)
+![](./logo.png)
 
 This is Solid.
 
