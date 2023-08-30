@@ -1,4 +1,4 @@
-<img src="./profile/logo.svg" height="75" alt="Sølide" />
+<img src="./profile/logo.svg" height="45" alt="Sølide" />
 
 This is Sølid.
 
