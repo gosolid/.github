@@ -1,4 +1,4 @@
-![Sølid](./logo.png)
+![Sølid](./profile/logo.svg)
 
 This is Sølid.
 
