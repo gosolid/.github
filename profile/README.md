@@ -1,4 +1,4 @@
-![Sølid](./profile/logo.png =100x75)
+<img src="./profile/logo.svg" height="75" alt="Sølide" />
 
 This is Sølid.
 
