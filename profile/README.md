@@ -1,4 +1,4 @@
-![Sølid](./profile/logo.svg)
+![Sølid](./profile/logo.svg | height=75px)
 
 This is Sølid.
 
