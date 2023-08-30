@@ -1,7 +1,7 @@
-![](./logo.png)
+![Sølid](./logo.png)
 
-This is Solid.
+This is Sølid.
 
-Solid is a Node.js compatible runtime which will power the decentralized internet.
+Sølid is a Node.js compatible runtime which will power the decentralized internet.
 
 Come and join us.
